@@ -1,0 +1,49 @@
+body{
+	font-family: 'Chango', cursive;
+	background: gray;
+	background-repeat: repeat-x;
+	background-image: url("https://i.pinimg.com/originals/a0/3a/87/a03a875b7cc2adbc6935ed4faeb5ead7.jpg"); 
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: yellow;
+}
+
+
+#burger-input{
+	text-align: center;
+	width: 25%;
+	height: 50px;
+	margin-left: 325px;
+	margin-top: 100px;
+}
+
+#order{
+	color: white;
+	text-align: center;
+	width: 15%;
+	background: brown;
+	font-size: 10px;
+	margin-left: 825px;
+}
+
+#order-desc{
+	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+	color: green;
+}
+
+#nbl{
+	background: #76ff03;
+}
+
+#dbl{
+	color: white;
+	background: orange;
+	backface-visibility: 0.5;
+}
+
